@@ -33,4 +33,21 @@ Aprendo rápido, rompo cosas y las arreglo mejor.
 
 ---
 
-### <img src="
+### <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1000&color=F72585&width=460&lines=%E3%80%8E%20PROYECTOS%20DESTACADOS%20%E3%80%8F%20%2F%2F%20QUESTS;%E3%80%8E%20ARCHIVES%20%E3%80%8F%20UNLOCKED" alt="Proyectos Destacados" height="26" />
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Metrolínea Live](https://github.com/DanielGamboa-10/Proyecto_Metrolinea_Python) | Sistema de monitoreo de transporte en tiempo real con detección de incidentes por IA — Hackathon Metrolínea[cite: 1] | Python · YOLOv8 · JS[cite: 1] |
+| [Sistema de Préstamos](https://github.com/DanielGamboa-10/PROYECTOPYTHON) | Gestión de préstamos y herramientas para comunidad vecinal[cite: 1] | Python · POO · JSON[cite: 1] |
+| [Ecomoda Web](https://github.com/DanielGamboa-10/Ecomoda_page_web) | Plataforma web con diseño adaptable e interfaz limpia[cite: 1] | HTML · CSS · JavaScript |
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1000&color=4CC9F0&width=400&lines=%E3%80%8E%20CONTACTO%20%E3%80%8F%20%2F%2F%20TRANSMISSION;%E3%80%8E%20SIGNAL%20%E3%80%8F%20ACTIVE" alt="Contacto" height="26" />
+
+- Correo: danieljgamboa55@gmail.com  
+- Portafolio: [DanielGamboa-10.github.io](https://DanielGamboa-10.github.io)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,31&height=100&section=footer" width="100%" alt="Anime Footer Banner" />
+</div>
