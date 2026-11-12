@@ -39,20 +39,20 @@ Enfoque en Clean Architecture, Domain-Driven Design (DDD) y soluciones de impact
 
 | Proyecto | Descripción | Rol / Aporte | Stack |
 |---|---|---|---|
-| ⚽ [ChatBot-Futbol](https://github.com/DanielGamboa-10/ChatBot-Futbol) | Chatbot inteligente (*Tribuna Global*) para análisis y percepción de futbolistas con containerización lista para producción. | Creador | Python · LangChain · Streamlit · Docker |
-| 🛠️ [RentaTools](https://github.com/castillokfirex/Proyecto_RentaHerramientas_kevin_castillo_daniel_gamboa) | Plataforma integral de alquiler de maquinaria: monolito modular con autenticación JWT, migraciones y pruebas arquitectónicas. | Co-Desarrollador | Java 21 · Spring Boot · Hexagonal/DDD · Flyway · Docker |
-| 🔐 [Proyecto SICA](https://github.com/DanielGamboa-10/Proyecto_SICA) | Sistema integrado de control de acceso aplicando Vertical Slicing, persistencia desacoplada y RBAC empresarial. | Creador | Java Puro · JDBC · Arquitectura Hexagonal · RBAC |
-| 🚍 [Metrolínea Live](https://github.com/DanielGamboa-10/Proyecto_Metrolinea_Python) | Sistema inteligente de geolocalización, simulación y detección de incidentes en tiempo real para transporte urbano (*Hackathon Metrolínea*). | Desarrollador | Python · Detección ML · Backend · JS |
-| 🏦 [Banco Acme](https://github.com/Jsebastiansalas/ProyectoAcmebank_JavaScript_Salas-Sebastian-Jaimes-Daniel2) | Aplicación web SPA para la autogestión de cuentas bancarias y operaciones financieras con persistencia local. | Co-Desarrollador | JavaScript Vanilla · SPA · HTML5 · CSS3 |
-| 🏎️ [Formula-1 Manager](https://github.com/DanielGamboa-10/Formula-1) | Motor de simulación y administración de escuderías, monoplazas y clasificación en Java Puro. | Creador | Java SE · Maven · HashMaps · Batch Scripts |
+| [ChatBot-Futbol](https://github.com/DanielGamboa-10/ChatBot-Futbol) | Chatbot inteligente (*Tribuna Global*) para análisis y percepción de futbolistas con containerización lista para producción. | Creador | Python · LangChain · Streamlit · Docker |
+| [RentaTools](https://github.com/castillokfirex/Proyecto_RentaHerramientas_kevin_castillo_daniel_gamboa) | Plataforma integral de alquiler de maquinaria: monolito modular con autenticación JWT, migraciones y pruebas arquitectónicas. | Co-Desarrollador | Java 21 · Spring Boot · Hexagonal/DDD · Flyway · Docker |
+| [Proyecto SICA](https://github.com/DanielGamboa-10/Proyecto_SICA) | Sistema integrado de control de acceso aplicando Vertical Slicing, persistencia desacoplada y RBAC empresarial. | Creador | Java Puro · JDBC · Arquitectura Hexagonal · RBAC |
+| [Metrolínea Live](https://github.com/DanielGamboa-10/Proyecto_Metrolinea_Python) | Sistema inteligente de geolocalización, simulación y detección de incidentes en tiempo real para transporte urbano (*Hackathon Metrolínea*). | Desarrollador | Python · Detección ML · Backend · JS |
+| [Banco Acme](https://github.com/Jsebastiansalas/ProyectoAcmebank_JavaScript_Salas-Sebastian-Jaimes-Daniel2) | Aplicación web SPA para la autogestión de cuentas bancarias y operaciones financieras con persistencia local. | Co-Desarrollador | JavaScript Vanilla · SPA · HTML5 · CSS3 |
+| [Formula-1 Manager](https://github.com/DanielGamboa-10/Formula-1) | Motor de simulación y administración de escuderías, monoplazas y clasificación en Java Puro. | Creador | Java SE · Maven · HashMaps · Batch Scripts |
 
 ---
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1000&color=4CC9F0&width=400&lines=%E3%80%8E%20CONTACTO%20%E3%80%8F%20%2F%2F%20TRANSMISSION;%E3%80%8E%20SIGNAL%20%E3%80%8F%20ACTIVE" alt="Contacto" height="26" />
 
-- 📧 Correo: [danieljgamboa55@gmail.com](mailto:danieljgamboa55@gmail.com)  
-- 💼 Portafolio Web: [danielgamboa-10.github.io/DanielGamboa_Portafolio](https://danielgamboa-10.github.io/DanielGamboa_Portafolio/)
-- 🐙 GitHub: [@DanielGamboa-10](https://github.com/DanielGamboa-10)
+- Correo: [danieljgamboa55@gmail.com](mailto:danieljgamboa55@gmail.com)  
+- Portafolio Web: [danielgamboa-10.github.io/DanielGamboa_Portafolio](https://danielgamboa-10.github.io/DanielGamboa_Portafolio/)
+- GitHub: [@DanielGamboa-10](https://github.com/DanielGamboa-10)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,31&height=100&section=footer" width="100%" alt="Footer Banner" />
