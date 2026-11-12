@@ -14,10 +14,10 @@ Enfoque en Clean Architecture, Domain-Driven Design (DDD) y soluciones de impact
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1000&color=7209B7&width=380&lines=%E3%80%8E%20SOBRE%20M%C3%8D%20%E3%80%8F%20%2F%2F%20PROFILE;%E3%80%8E%20DATA_CORE%20%E3%80%8F%20ONLINE" alt="Sobre Mí" height="26" />
 
-- 🧠 Especial interés en **Pipelines de IA**, chatbots contextuales con **LangChain**, agentes autónomos y computer vision.
-- 🏛️ Fuerte disciplina en diseño de software: **Arquitectura Hexagonal**, **DDD**, Monolitos Modulares, **RBAC** y normalización de bases de datos.
-- 🏆 Participante en la **Hackathon Metrolínea** desarrollando soluciones de monitoreo y detección de incidentes en tiempo real.
-- 🚀 En búsqueda activa de **práctica profesional / pasantía** para aportar valor en desarrollo Backend o Ingeniería de IA.
+- Especial interés en **Pipelines de IA**, chatbots contextuales con **LangChain**, agentes autónomos y computer vision.
+- Fuerte disciplina en diseño de software: **Arquitectura Hexagonal**, **DDD**, Monolitos Modulares, **RBAC** y normalización de bases de datos.
+- Participante en la **Hackathon Metrolínea** desarrollando soluciones de monitoreo y detección de incidentes en tiempo real.
+- En búsqueda activa de **práctica profesional / pasantía** para aportar valor en desarrollo Backend o Ingeniería de IA.
 
 ---
 
@@ -51,7 +51,7 @@ Enfoque en Clean Architecture, Domain-Driven Design (DDD) y soluciones de impact
 ### <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1000&color=4CC9F0&width=400&lines=%E3%80%8E%20CONTACTO%20%E3%80%8F%20%2F%2F%20TRANSMISSION;%E3%80%8E%20SIGNAL%20%E3%80%8F%20ACTIVE" alt="Contacto" height="26" />
 
 - 📧 Correo: [danieljgamboa55@gmail.com](mailto:danieljgamboa55@gmail.com)  
-- 💼 Portafolio Web: [DanielGamboa_Portafolio](https://github.com/DanielGamboa-10/DanielGamboa_Portafolio) · [Demo en Vivo](https://DanielGamboa-10.github.io)
+- 💼 Portafolio Web: [danielgamboa-10.github.io/DanielGamboa_Portafolio](https://danielgamboa-10.github.io/DanielGamboa_Portafolio/)
 - 🐙 GitHub: [@DanielGamboa-10](https://github.com/DanielGamboa-10)
 
 <div align="center">
